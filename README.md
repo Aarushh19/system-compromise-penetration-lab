@@ -36,7 +36,8 @@ Gain hands-on experience in exploiting real-world vulnerabilities using ethical 
 
 ## 📸 Screenshot
 
-![Armitage Exploit](https://raw.githubusercontent.com/Aarushh19/system-compromise-penetration-lab/main/BothVMscompromised.png)
+![Both VMs Compromised](https://raw.githubusercontent.com/Aarushh19/system-compromise-penetration-lab/main/Both%20VMs%20compromised.png)
+
 
 ---
 
